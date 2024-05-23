@@ -3,7 +3,7 @@
 **Description** of the program WebGraph_v2 in the attached file _Description.pdf_ .
 
 **Remark**:
-There aree two versions: WebGraph_v1 & WebGraph_v2.
+There are two versions: WebGraph_v1 & WebGraph_v2.
 First program executes better its task (also it has ability to zoom and move graph by buttons, good visualization, it is faster).
 Second made to fully meet requirements of the course work (however the image of graph is not the best).
 
