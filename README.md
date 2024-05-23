@@ -1,6 +1,6 @@
 # Course_Work_OOP
 
-**Description** of the program WebGraph_v2 in the attached file Description.pdf .
+**Description** of the program WebGraph_v2 in the attached file _Description.pdf_ .
 
 **Remark**:
 There aree two versions: WebGraph_v1 & WebGraph_v2.
